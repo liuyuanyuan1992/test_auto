@@ -1,0 +1,5 @@
+2019-07-28 17:43:50,796 - test_selenium.py[line:12] - INFO: print logging info
+2019-07-28 17:43:50,796 - test_selenium.py[line:13] - WARNING: print logging warning
+2019-07-28 17:43:50,796 - test_selenium.py[line:14] - DEBUG: print loggin debug
+2019-07-28 17:43:50,797 - test_selenium.py[line:15] - ERROR: print logging error
+2019-07-28 17:43:50,797 - test_selenium.py[line:16] - CRITICAL: print logging critical

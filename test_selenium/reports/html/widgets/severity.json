@@ -1,0 +1,21 @@
+[ {
+  "uid" : "c60911e3bff04286",
+  "name" : "test_browser",
+  "time" : {
+    "start" : 1564586926737,
+    "stop" : 1564586930317,
+    "duration" : 3580
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab988d0494bc76fd",
+  "name" : "test_webtitle",
+  "time" : {
+    "start" : 1564586936842,
+    "stop" : 1564586938216,
+    "duration" : 1374
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

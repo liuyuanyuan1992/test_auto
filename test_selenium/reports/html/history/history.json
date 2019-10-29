@@ -1,0 +1,41 @@
+{
+  "37c6bb2b73e0070bb8ae7a5d94378f20" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c60911e3bff04286",
+      "status" : "passed",
+      "time" : {
+        "start" : 1564586926737,
+        "stop" : 1564586930317,
+        "duration" : 3580
+      }
+    } ]
+  },
+  "698acc8336b82373832852569b61cc12" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ab988d0494bc76fd",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '测试媛组织成立啦' in ''",
+      "time" : {
+        "start" : 1564586936842,
+        "stop" : 1564586938216,
+        "duration" : 1374
+      }
+    } ]
+  }
+}

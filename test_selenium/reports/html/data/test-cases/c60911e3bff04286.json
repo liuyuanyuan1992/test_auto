@@ -1,0 +1,101 @@
+{
+  "uid" : "c60911e3bff04286",
+  "name" : "test_browser",
+  "fullName" : "test_Firefox.Test_testerhome#test_browser",
+  "historyId" : "37c6bb2b73e0070bb8ae7a5d94378f20",
+  "time" : {
+    "start" : 1564586926737,
+    "stop" : 1564586930317,
+    "duration" : 3580
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1564586922035,
+      "stop" : 1564586926732,
+      "duration" : 4697
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7bfd9f3e9e8f5b43",
+      "name" : "stdout",
+      "source" : "7bfd9f3e9e8f5b43.txt",
+      "type" : "text/plain",
+      "size" : 40
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1564586930319,
+      "stop" : 1564586932006,
+      "duration" : 1687
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_Firefox"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_testerhome"
+  }, {
+    "name" : "host",
+    "value" : "liuyuanuandembp"
+  }, {
+    "name" : "thread",
+    "value" : "65492-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_Firefox"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c60911e3bff04286.json",
+  "parameterValues" : [ ]
+}

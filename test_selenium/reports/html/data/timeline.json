@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "liuyuanuandembp",
+    "children" : [ {
+      "name" : "65492-MainThread",
+      "children" : [ {
+        "name" : "test_webtitle",
+        "uid" : "ab988d0494bc76fd",
+        "parentUid" : "c1fa873a205fd4da8bd908ff9aef2cfc",
+        "status" : "failed",
+        "time" : {
+          "start" : 1564586936842,
+          "stop" : 1564586938216,
+          "duration" : 1374
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_browser",
+        "uid" : "c60911e3bff04286",
+        "parentUid" : "c1fa873a205fd4da8bd908ff9aef2cfc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1564586926737,
+          "stop" : 1564586930317,
+          "duration" : 3580
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c1fa873a205fd4da8bd908ff9aef2cfc"
+    } ],
+    "uid" : "a691bc55abc62a0293fad0c4bb4abfef"
+  } ]
+}

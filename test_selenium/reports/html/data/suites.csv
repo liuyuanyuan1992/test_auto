@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Wed Jul 31 23:28:56 CST 2019","Wed Jul 31 23:28:58 CST 2019","1374","","test_Firefox","Test_testerhome","","","test_webtitle",""
+"passed","Wed Jul 31 23:28:46 CST 2019","Wed Jul 31 23:28:50 CST 2019","3580","","test_Firefox","Test_testerhome","","","test_browser",""

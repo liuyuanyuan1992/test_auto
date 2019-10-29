@@ -1,0 +1,42 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "children" : [ {
+      "name" : "test_Firefox",
+      "children" : [ {
+        "name" : "Test_testerhome",
+        "children" : [ {
+          "name" : "test_browser",
+          "uid" : "c60911e3bff04286",
+          "parentUid" : "95323ffb6ec74448ab159fa159aae123",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564586926737,
+            "stop" : 1564586930317,
+            "duration" : 3580
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_webtitle",
+          "uid" : "ab988d0494bc76fd",
+          "parentUid" : "95323ffb6ec74448ab159fa159aae123",
+          "status" : "failed",
+          "time" : {
+            "start" : 1564586936842,
+            "stop" : 1564586938216,
+            "duration" : 1374
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "95323ffb6ec74448ab159fa159aae123"
+      } ],
+      "uid" : "fad4258bfcb8a056af7d86f1d29a6b71"
+    } ],
+    "uid" : "84e4fb228aa5651a31b5ca4d2bc531de"
+  } ]
+}
